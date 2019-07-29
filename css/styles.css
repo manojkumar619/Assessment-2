@@ -15,7 +15,7 @@
  }
 
  .container-fluid {
-   padding: 6% 15% 7%;
+   padding: 5% 15% 7%;
    text-align: center;
  }
 
@@ -99,7 +99,7 @@
 
  .Dog-pic {
    width: 10%;
-   border-radius: 100%;
+   border-radius: 15px;
    margin: 20px;
  }
 
