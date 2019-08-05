@@ -51,7 +51,7 @@
 
  .title-img {
    width: 25%;
-   transform: rotate(23deg);
+   transform: rotate(25deg);
    position: absolute;
  }
 
@@ -139,7 +139,7 @@
    }
 
    .title-img {
-     position: static;
+     position: relative;
      transform: rotate(0);
    }
  }
