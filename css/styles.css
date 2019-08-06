@@ -9,9 +9,9 @@
  }
 
  h2 {
-   font-family: "Montserrat-Bold"
+     font-family: "Montserrat-Bold";
      font-size: 5rem;
-   line-height: 1.5;
+     line-height: 1.5;
  }
 
  .container-fluid {
@@ -126,7 +126,7 @@
    padding: 7% 15%;
  }
  .card-lab{
-   margin:top: 10%;
+   margin:top 10%;
  }
  #pricing {
    padding: 100px;
